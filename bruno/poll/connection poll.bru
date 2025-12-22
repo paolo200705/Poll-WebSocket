@@ -1,0 +1,22 @@
+meta {
+  name: connection poll
+  type: ws
+  seq: 2
+}
+
+ws {
+  url: {{url}}/ws/poll/a983e504-8354-4081-b564-9f8f3e6c4377?token={{token1}}
+  body: ws
+  auth: inherit
+}
+
+body:ws {
+  name: message 1
+  type: json
+  content: '''
+    {
+      "start_connection": false,
+      "option": "não"
+    }
+  '''
+}

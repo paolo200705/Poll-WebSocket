@@ -1,0 +1,21 @@
+meta {
+  name: connection poll 3 (test)
+  type: ws
+  seq: 5
+}
+
+ws {
+  url: {{url}}/ws/poll/123?token={{token3}}
+  body: ws
+  auth: inherit
+}
+
+body:ws {
+  name: message 1
+  type: json
+  content: '''
+    {
+      "option": "merda"
+    }
+  '''
+}

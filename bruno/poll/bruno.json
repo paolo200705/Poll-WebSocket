@@ -1,0 +1,23 @@
+{
+  "version": "1",
+  "name": "poll",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ],
+  "size": 0,
+  "filesCount": 0,
+  "proxy": {
+    "enabled": "global",
+    "protocol": "http",
+    "hostname": "localhost",
+    "port": 8080,
+    "auth": {
+      "enabled": false,
+      "username": "",
+      "password": ""
+    },
+    "bypassProxy": ""
+  }
+}

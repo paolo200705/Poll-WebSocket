@@ -1,0 +1,32 @@
+meta {
+  name: Create Poll
+  type: http
+  seq: 5
+}
+
+post {
+  url: {{url}}/poll?token={{token1}}
+  body: json
+  auth: inherit
+}
+
+params:query {
+  token: {{token1}}
+}
+
+headers {
+  ~Authorization: Bearer {{token1}}
+}
+
+body:json {
+  {
+    "name": "Segunda poll monstra",
+    "question": "dar o bumbum ou comer bolo",
+    "options": ["sim", "não", "talvez"]
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

